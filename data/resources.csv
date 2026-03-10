@@ -1,0 +1,77 @@
+topic,level,source,description,url
+Machine Learning,Beginner,YouTube,Machine Learning Full Course for Beginners – freeCodeCamp,https://www.youtube.com/watch?v=GwIo3gDZCVQ
+Machine Learning,Beginner,Coursera,Machine Learning by Andrew Ng – Stanford,https://www.coursera.org/learn/machine-learning
+Machine Learning,Beginner,Google,ML Crash Course with TensorFlow APIs,https://developers.google.com/machine-learning/crash-course
+Machine Learning,Beginner,Khan Academy,Intro to Machine Learning – Khan Academy,https://www.khanacademy.org/computing/computer-science/algorithms
+Machine Learning,Intermediate,Udemy,Machine Learning A-Z – Hands-On Python & R,https://www.udemy.com/course/machinelearning/
+Machine Learning,Intermediate,YouTube,StatQuest Machine Learning Playlist,https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+Machine Learning,Intermediate,GeeksforGeeks,ML Tutorial – GeeksforGeeks Complete Guide,https://www.geeksforgeeks.org/machine-learning/
+Machine Learning,Advanced,Coursera,Advanced ML Specialization – HSE University,https://www.coursera.org/specializations/aml
+Machine Learning,Advanced,MIT OCW,MIT 6.867 Machine Learning,https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/
+Machine Learning,Advanced,edX,Machine Learning with Python – IBM (edX),https://www.edx.org/learn/machine-learning/ibm-machine-learning-with-python
+Deep Learning,Beginner,YouTube,Deep Learning Crash Course for Beginners,https://www.youtube.com/watch?v=VyWAvY2CF9c
+Deep Learning,Beginner,Coursera,Neural Networks and Deep Learning – Andrew Ng,https://www.coursera.org/learn/neural-networks-deep-learning
+Deep Learning,Beginner,freeCodeCamp,Deep Learning with TensorFlow – freeCodeCamp,https://www.freecodecamp.org/learn/machine-learning-with-python/
+Deep Learning,Intermediate,YouTube,3Blue1Brown Neural Networks Series,https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+Deep Learning,Intermediate,Coursera,Deep Learning Specialization – 5 Course Series,https://www.coursera.org/specializations/deep-learning
+Deep Learning,Intermediate,Udemy,PyTorch for Deep Learning – Complete Guide,https://www.udemy.com/course/pytorch-for-deep-learning/
+Deep Learning,Advanced,Stanford,Stanford CS231n – CNNs for Visual Recognition,https://cs231n.stanford.edu/
+Deep Learning,Advanced,MIT OCW,MIT 6.S191 Introduction to Deep Learning,https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/
+Deep Learning,Advanced,Google,TensorFlow Advanced Tutorials,https://www.tensorflow.org/tutorials
+Python,Beginner,YouTube,Python Full Course for Beginners – freeCodeCamp,https://www.youtube.com/watch?v=rfscVS0vtbw
+Python,Beginner,Coursera,Python for Everybody Specialization,https://www.coursera.org/specializations/python
+Python,Beginner,freeCodeCamp,Scientific Computing with Python,https://www.freecodecamp.org/learn/scientific-computing-with-python/
+Python,Beginner,W3Schools,Python Tutorial – W3Schools,https://www.w3schools.com/python/
+Python,Intermediate,YouTube,Corey Schafer Python OOP Tutorials,https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+Python,Intermediate,Udemy,100 Days of Code – Python Bootcamp,https://www.udemy.com/course/100-days-of-code/
+Python,Intermediate,Google,Google Python Class,https://developers.google.com/edu/python
+Python,Advanced,edX,Using Python for Research – Harvard,https://www.edx.org/learn/python/harvard-university-using-python-for-research
+Python,Advanced,YouTube,ArjanCodes – Advanced Python Patterns,https://www.youtube.com/c/ArjanCodes
+Python,Advanced,Real Python,Real Python Advanced Tutorials,https://realpython.com/
+NLP,Beginner,YouTube,NLP Full Course – freeCodeCamp,https://www.youtube.com/watch?v=dIUTsFT2MeQ
+NLP,Beginner,Coursera,Natural Language Processing – DeepLearning.AI,https://www.coursera.org/learn/classification-vector-spaces-in-nlp
+NLP,Beginner,Khan Academy,Intro to Natural Language Processing,https://www.khanacademy.org/computing/computer-science
+NLP,Intermediate,YouTube,Hugging Face NLP Course – Full Playlist,https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o
+NLP,Intermediate,Coursera,NLP Specialization – DeepLearning.AI,https://www.coursera.org/specializations/natural-language-processing
+NLP,Intermediate,Udemy,NLP with Python – Master NLP & Text Mining,https://www.udemy.com/course/nlp-natural-language-processing-with-python/
+NLP,Advanced,Stanford,Stanford CS224N – NLP with Deep Learning,https://web.stanford.edu/class/cs224n/
+NLP,Advanced,Hugging Face,Transformers Course – Hugging Face Official,https://huggingface.co/course
+NLP,Advanced,YouTube,Yannic Kilcher – NLP Paper Explanations,https://www.youtube.com/c/YannicKilcher
+Data Science,Beginner,YouTube,Data Science Full Course – Simplilearn,https://www.youtube.com/watch?v=-ETQ97mXXF0
+Data Science,Beginner,Coursera,IBM Data Science Professional Certificate,https://www.coursera.org/professional-certificates/ibm-data-science
+Data Science,Beginner,Khan Academy,Statistics & Probability – Khan Academy,https://www.khanacademy.org/math/statistics-probability
+Data Science,Beginner,freeCodeCamp,Data Analysis with Python Certification,https://www.freecodecamp.org/learn/data-analysis-with-python/
+Data Science,Intermediate,YouTube,Krish Naik Data Science Playlist,https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+Data Science,Intermediate,Udemy,Python for Data Science and ML Bootcamp,https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+Data Science,Intermediate,Kaggle,Kaggle Learn – Data Visualization & Pandas,https://www.kaggle.com/learn
+Data Science,Advanced,edX,Data Science MicroMasters – UC San Diego,https://www.edx.org/micromasters/uc-san-diegox-data-science
+Data Science,Advanced,Coursera,Applied Data Science with Python – U Michigan,https://www.coursera.org/specializations/data-science-python
+Data Science,Advanced,MIT OCW,MIT 6.0002 – Computational Thinking & Data Science,https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+Web Development,Beginner,YouTube,Web Development Full Course – freeCodeCamp,https://www.youtube.com/watch?v=nu_pCVPKzTk
+Web Development,Beginner,freeCodeCamp,Responsive Web Design Certification,https://www.freecodecamp.org/learn/2022/responsive-web-design/
+Web Development,Beginner,W3Schools,HTML CSS JavaScript – W3Schools,https://www.w3schools.com/
+Web Development,Beginner,Khan Academy,Intro to HTML/CSS – Khan Academy,https://www.khanacademy.org/computing/computer-programming
+Web Development,Intermediate,YouTube,Traversy Media – Full Stack Crash Course,https://www.youtube.com/c/TraversyMedia
+Web Development,Intermediate,Coursera,Full-Stack Web Dev with React – HKUST,https://www.coursera.org/specializations/full-stack-react
+Web Development,Intermediate,Udemy,The Complete Web Developer Bootcamp,https://www.udemy.com/course/the-web-developer-bootcamp/
+Web Development,Advanced,edX,CS50 Web Programming – Harvard,https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript
+Web Development,Advanced,YouTube,Fireship – Advanced Web Dev in 100 Seconds,https://www.youtube.com/c/Fireship
+Web Development,Advanced,Google,Google Web Fundamentals & Codelabs,https://developers.google.com/codelabs
+Computer Vision,Beginner,YouTube,Computer Vision Full Course – freeCodeCamp,https://www.youtube.com/watch?v=01sAkU_NvOY
+Computer Vision,Beginner,Coursera,Introduction to Computer Vision – University at Buffalo,https://www.coursera.org/learn/introduction-computer-vision-watson-opencv
+Computer Vision,Beginner,GeeksforGeeks,OpenCV Python Tutorial – GFG,https://www.geeksforgeeks.org/opencv-python-tutorial/
+Computer Vision,Intermediate,YouTube,Murtaza's Workshop – OpenCV Full Course,https://www.youtube.com/watch?v=WQeoO7MI0Bs
+Computer Vision,Intermediate,Udemy,Deep Learning and Computer Vision A-Z,https://www.udemy.com/course/computer-vision-a-z/
+Computer Vision,Intermediate,Coursera,Advanced Computer Vision with TensorFlow,https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow
+Computer Vision,Advanced,Stanford,Stanford CS231n – Convolutional Neural Networks,https://cs231n.stanford.edu/
+Computer Vision,Advanced,MIT OCW,MIT 6.869 – Advances in Computer Vision,https://ocw.mit.edu/courses/6-869-advances-in-computer-vision-fall-2005/
+Computer Vision,Advanced,YouTube,First Principles of Computer Vision – Columbia,https://www.youtube.com/c/FirstPrinciplesofComputerVision
+Cloud Computing,Beginner,YouTube,AWS Certified Cloud Practitioner Full Course,https://www.youtube.com/watch?v=SOTamWNgDKc
+Cloud Computing,Beginner,Coursera,Google Cloud Fundamentals,https://www.coursera.org/learn/gcp-fundamentals
+Cloud Computing,Beginner,Google,Google Cloud Skills Boost – Free Labs,https://www.cloudskillsboost.google/
+Cloud Computing,Intermediate,YouTube,Docker Tutorial for Beginners – TechWorld,https://www.youtube.com/watch?v=3c-iBn73dDE
+Cloud Computing,Intermediate,Udemy,AWS Solutions Architect – Stephane Maarek,https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+Cloud Computing,Intermediate,Coursera,Architecting with Google Cloud Platform,https://www.coursera.org/professional-certificates/gcp-cloud-architect
+Cloud Computing,Advanced,edX,Cloud Computing MicroMasters – University of Maryland,https://www.edx.org/micromasters/usmx-cloud-computing
+Cloud Computing,Advanced,YouTube,KodeKloud – Kubernetes Full Course,https://www.youtube.com/watch?v=d6WC5n9G_sM
+Cloud Computing,Advanced,Google,Terraform on Google Cloud – Official Docs,https://cloud.google.com/docs/terraform
