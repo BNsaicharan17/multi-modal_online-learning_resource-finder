@@ -8,5 +8,4 @@ nltk
 joblib
 google-api-python-client
 plotly
-tensorflow==2.15.0
-
+keras
