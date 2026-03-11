@@ -8,9 +8,5 @@ nltk
 joblib
 google-api-python-client
 plotly
-streamlit
-numpy
-pandas
-scikit-learn
 tensorflow==2.15.0
-Pillow
+
