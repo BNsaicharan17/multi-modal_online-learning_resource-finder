@@ -6,11 +6,9 @@ Features:
 - Cached model loading for Streamlit
 """
 
-import numpy as np
 
-from keras.applications import MobileNetV2
-from keras.applications.mobilenet_v2 import preprocess_input, decode_predictions
-from keras.preprocessing.image import img_to_array
+from PIL import Image
+import numpy as np
 
 # ---------------------------------------------------------------------------
 # Load model once at module level (wrap with @st.cache_resource in app.py)
@@ -140,7 +138,7 @@ def predict_image(img):
     try:
         img = img.convert("RGB")
         img = img.resize((224, 224))
-        x = img_to_array(img)
+        img_array = np.array(img)
         x = np.expand_dims(x, axis=0)
         x = preprocess_input(x)
 
