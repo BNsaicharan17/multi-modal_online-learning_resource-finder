@@ -8,9 +8,9 @@ Features:
 
 import numpy as np
 
-from tensorflow.keras.applications import MobileNetV2
-from tensorflow.keras.applications.mobilenet_v2 import preprocess_input, decode_predictions
-from tensorflow.keras.preprocessing.image import img_to_array
+from keras.applications import MobileNetV2
+from keras.applications.mobilenet_v2 import preprocess_input, decode_predictions
+from keras.preprocessing.image import img_to_array
 
 # ---------------------------------------------------------------------------
 # Load model once at module level (wrap with @st.cache_resource in app.py)
