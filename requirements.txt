@@ -8,4 +8,3 @@ nltk
 joblib
 google-api-python-client
 plotly
-keras
